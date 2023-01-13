@@ -1,1 +1,1 @@
-# info-page
+This informational website features the foundations of HTML and CSS that I have learned so far.
